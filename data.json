@@ -1,0 +1,60 @@
+{
+"basics":{
+  "name":"Siva Malladi",
+  "email":"sivamalladi305@gmail.com",
+  "mobile":"9390733999"
+},
+
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+
+"education" :[
+  {
+"degree" :"B.tech",
+"institute":"PSCMR",
+"Data":["2015-2019","79%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"NARAYANA Jr College",
+  "Data":["2013-2015","90%"]
+},
+
+{
+  "degree":"SSC",
+  "institute":"Sri Vijetha public School",
+  "Data":["2012-2013","9.2"]
+}
+],
+
+"achievements":[
+  {
+    "name":"Awarded as <b>1<sup>st</sup>Prize</b> in Self-Defence"
+
+  },
+  {
+    "name":"Got <strong>1<sup>Prize</strong> for <q> PPT presentation</q>"
+  }
+],
+"technicalskills":[
+
+{
+  "name":"Programming Languages",
+  "data": ["C", " JAVA", " C++", " Javascript", " PHP", " HTML"]
+
+},
+{
+  "name":"Database",
+  "data":["MYSQL", " ORACLE"]
+},
+{
+  "name":"Web Technologies",
+  "data":["HTML", " CSS", " JAVASCRIPT"]
+},
+{
+  "name":"Libraries and Framework",
+  "data":["jQuery", " codeIgnitor"]
+}
+]
+}
